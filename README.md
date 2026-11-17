@@ -269,16 +269,6 @@ curl -X POST http://127.0.0.1:5000/predict \
 - Ensure data types match (floats for numeric values, ints for month)
 - Check model fallback messages in server logs
 
-## Future Enhancements
-
-- [ ] Database integration for historical predictions
-- [ ] Real-time weather data integration
-- [ ] Advanced ensemble methods combining multiple models
-- [ ] API rate limiting and authentication
-- [ ] Deployment configurations (Docker, Kubernetes)
-- [ ] Performance metrics and monitoring
-- [ ] API documentation with Swagger/OpenAPI
-
 ## License
 
 This project is open source and available under the MIT License.
@@ -289,9 +279,8 @@ Contributions are welcome! Please feel free to submit issues and pull requests.
 
 ## Contact
 
-For questions or support, please reach out to the repository owner.
+For questions or support, please reach out :) .
 
 ---
 
-**Last Updated**: January 2026
 **Repository**: [homagama-weather-backend](https://github.com/itz-im45h4/homagama-weather-backend)
