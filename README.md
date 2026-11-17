@@ -279,7 +279,7 @@ Contributions are welcome! Please feel free to submit issues and pull requests.
 
 ## Contact
 
-For questions or support, please reach out :) .
+For questions or support, please reach out (｡ •̀ᴗ-)✧ 
 
 ---
 
